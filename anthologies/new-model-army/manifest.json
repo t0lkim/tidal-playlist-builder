@@ -1,0 +1,42 @@
+{
+    "folder_name": "New Model Army - An Anthology",
+    "artist_aliases": ["sullivan", "new model army"],
+    "volumes": [
+        {
+            "file": "vol01_bradford_fire.txt",
+            "title": "Vol. I: The Bradford Fire (1980–1984)",
+            "description": "Raw post-punk fury from the independent years. The manifesto."
+        },
+        {
+            "file": "vol02_state_of_the_nation.txt",
+            "title": "Vol. II: The State of the Nation (1985–1987)",
+            "description": "The EMI years. Political fire, banned from Top of the Pops."
+        },
+        {
+            "file": "vol03_thunder.txt",
+            "title": "Vol. III: Thunder (1989–1991)",
+            "description": "The masterwork period. Folk, punk, and rock in perfect collision."
+        },
+        {
+            "file": "vol04_wilderness.txt",
+            "title": "Vol. IV: The Wilderness (1993–1998)",
+            "description": "EMI drops them. The music gets harder, then more reflective."
+        },
+        {
+            "file": "vol05_ghosts_and_carnivals.txt",
+            "title": "Vol. V: Ghosts and Carnivals (2000–2009)",
+            "description": "Heaton dies. The band doesn't. Tribal rhythms, atmospheric landscapes."
+        },
+        {
+            "file": "vol06_late_burning.txt",
+            "title": "Vol. VI: The Late Burning (2013–2024)",
+            "description": "The renaissance. Critics finally catch up. The orchestra arrives."
+        },
+        {
+            "file": "vol07_live_appendix.txt",
+            "title": "Live Appendix: The Essential Live Recordings",
+            "description": "For when you need to hear what the Family sounds like in a room together.",
+            "prefer_live": true
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+  "project": "TidalPlaylistBuilder",
+  "aliases": ["tidal", "tpb", "tidal-playlist-builder", "playlist builder", "tidal playlist"],
+  "created_at": "2026-03-06T12:00:00+08:00",
+  "sections": ["CLI", "Auth", "Sources", "Search", "Playlists", "General"],
+  "default_section": "General"
+}

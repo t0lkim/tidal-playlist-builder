@@ -1,0 +1,42 @@
+{
+    "folder_name": "Iron Maiden - An Anthology",
+    "artist_aliases": ["maiden", "iron maiden", "bruce dickinson", "blaze bayley", "paul di'anno"],
+    "volumes": [
+        {
+            "file": "vol01_iron_dawn.txt",
+            "title": "Vol. I: Iron Dawn (1978–1981)",
+            "description": "The Di'Anno years. Punk-metal from the streets of East London."
+        },
+        {
+            "file": "vol02_ascension.txt",
+            "title": "Vol. II: Ascension (1982–1985)",
+            "description": "The Number of the Beast through Powerslave. The golden age."
+        },
+        {
+            "file": "vol03_somewhere_in_time.txt",
+            "title": "Vol. III: Somewhere in Time (1986–1989)",
+            "description": "Synth guitars, the concept album, and the peak of ambition."
+        },
+        {
+            "file": "vol04_the_darkening.txt",
+            "title": "Vol. IV: The Darkening (1990–1999)",
+            "description": "Bruce departs, Blaze arrives. The difficult years and the hidden masterworks."
+        },
+        {
+            "file": "vol05_renaissance.txt",
+            "title": "Vol. V: Renaissance (2000–2006)",
+            "description": "The reunion. Three guitars. The progressive rebirth."
+        },
+        {
+            "file": "vol06_endless_frontier.txt",
+            "title": "Vol. VI: The Endless Frontier (2010–2021)",
+            "description": "Double albums, 18-minute epics, and the refusal to stop."
+        },
+        {
+            "file": "vol07_live_appendix.txt",
+            "title": "Live Appendix: Up the Irons",
+            "description": "Live After Death, Rock in Rio, and the sound of 250,000 people losing their minds.",
+            "prefer_live": true
+        }
+    ]
+}

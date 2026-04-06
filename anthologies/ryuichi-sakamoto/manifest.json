@@ -1,0 +1,41 @@
+{
+    "folder_name": "Ryuichi Sakamoto - An Anthology",
+    "artist_aliases": ["sakamoto", "ryuichi sakamoto", "ryuichi", "yellow magic orchestra", "ymo", "alva noto", "fennesz", "david sylvian", "morelenbaum"],
+    "volumes": [
+        {
+            "file": "vol01_electric_youth.txt",
+            "title": "Vol. I: Electric Youth (1978–1983)",
+            "description": "Yellow Magic Orchestra and the birth of electronic pop. Thousand Knives to Merry Christmas Mr. Lawrence."
+        },
+        {
+            "file": "vol02_the_world_in_a_wire.txt",
+            "title": "Vol. II: The World in a Wire (1984–1989)",
+            "description": "Left Handed Dream through Beauty. Seven solo albums in six years, each a different continent."
+        },
+        {
+            "file": "vol03_bibo_no_aozora.txt",
+            "title": "Vol. III: Bibo no Aozora (1991–1998)",
+            "description": "The pop-to-piano transition. Discord, BTTB, and the first instrumental number one in Japan."
+        },
+        {
+            "file": "vol04_thousand_screens.txt",
+            "title": "Vol. IV: A Thousand Screens (1987–2023)",
+            "description": "Film scores. The Last Emperor to Monster — forty years of cinema as compositional canvas."
+        },
+        {
+            "file": "vol05_noise_and_silence.txt",
+            "title": "Vol. V: Noise and Silence (2002–2009)",
+            "description": "Alva Noto, Fennesz, Morelenbaum. The experimental decade — glitch, ambient, Arctic field recordings."
+        },
+        {
+            "file": "vol06_ars_longa.txt",
+            "title": "Vol. VI: Ars Longa, Vita Brevis (2017–2023)",
+            "description": "async and 12. The final works, composed in the awareness of death."
+        },
+        {
+            "file": "vol07_collaborations.txt",
+            "title": "Appendix: The Conversations",
+            "description": "Sylvian, Alva Noto, Fennesz, Morelenbaum. The collaborative life as artistic practice."
+        }
+    ]
+}

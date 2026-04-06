@@ -1,0 +1,68 @@
+{
+    "playlist_ids": {
+        "vol01": "0d6ee419-4a8a-4f5d-92fa-bab34869926e",
+        "vol02": "9acf128c-0016-410b-b18d-559fc638abf2",
+        "vol03": "ce8601fe-0656-4402-b430-1157396ad565",
+        "vol04": "92608192-6b27-430a-a3ec-1d26f1c3a64c",
+        "vol05": "37869341-fdab-4bec-b534-0f4fb6290c7f",
+        "vol06": "e4af50c1-e167-4927-8e85-fb94aebea47b",
+        "vol07": "21433f8c-3a2c-4c1b-bd4f-bf2f14b156fb",
+        "vol08": "e403fe0c-1151-450c-b850-32dfade64dde",
+        "vol09": "69f6760d-2afb-4e2f-a460-98cb50317351",
+        "vol10": "b5c49ffe-9cfd-43fa-93b9-cfc7a9773508"
+    },
+    "additions": {
+        "vol01": [
+            ["205402407", "David Bowie - Can't Help Thinking About Me (1966 single)"],
+            ["205402395", "David Bowie - I Dig Everything (1966 single)"],
+            ["205402398", "David Bowie - Karma Man (1967 Deram outtake)"],
+            ["92073301", "David Bowie - In the Heat of the Morning (1968 Deram outtake)"]
+        ],
+        "vol02": [
+            ["51161402", "David Bowie - The Prettiest Star (1970 single, Marc Bolan on guitar)"],
+            ["121722273", "David Bowie - Conversation Piece (1970 B-side)"]
+        ],
+        "vol03": [
+            ["60101118", "David Bowie - John, I'm Only Dancing (1972 non-album single)"],
+            ["363167306", "David Bowie - Round and Round (1972 B-side, Chuck Berry cover)"],
+            ["51161390", "David Bowie - Sorrow (1973 Pin Ups single)"]
+        ],
+        "vol04": [
+            ["69135988", "David Bowie - Knock on Wood (Live, 1974 single)"],
+            ["76200989", "David Bowie - Across the Universe (1975 B-side, feat. John Lennon)"]
+        ],
+        "vol05": [
+            ["122618279", "Bing Crosby & David Bowie - Peace on Earth / Little Drummer Boy (1977/1982)"],
+            ["84556435", "David Bowie - Alabama Song (1980 Brecht cover single)"],
+            ["78904226", "David Bowie - Crystal Japan (1980 instrumental single)"]
+        ],
+        "vol06": [
+            ["137852", "David Bowie - Baal's Hymn (1982 Brecht EP)"],
+            ["137855", "David Bowie - The Drowned Girl (1982 Brecht EP)"],
+            ["620621", "David Bowie & Mick Jagger - Dancing in the Street (1985 Live Aid single)"]
+        ],
+        "vol07": [
+            ["65484867", "David Bowie - Underground (1986 Labyrinth)"],
+            ["65484858", "David Bowie - Magic Dance (1986 Labyrinth)"],
+            ["65484862", "David Bowie - As the World Falls Down (1986 Labyrinth)"],
+            ["65484864", "David Bowie - Within You (1986 Labyrinth)"],
+            ["620683", "David Bowie - When the Wind Blows (1986 film single)"]
+        ],
+        "vol08": [
+            ["166456", "David Bowie - Real Cool World (1992 Cool World soundtrack)"],
+            ["205402279", "David Bowie - Buddha of Suburbia (1993 BBC soundtrack)"],
+            ["206120465", "David Bowie - Pallas Athena (1993 non-album single)"],
+            ["166457", "David Bowie - Lucy Can't Dance (1993 outtake)"]
+        ],
+        "vol09": [
+            ["455083525", "David Bowie - Safe (2002 B-side)"],
+            ["37697084", "David Bowie - Shadow Man (2001 Toy session, Heathen B-side)"],
+            ["455083523", "David Bowie - Wood Jackson (2002 Heathen bonus)"]
+        ],
+        "vol10": [
+            ["359527383", "David Bowie - No Plan (2017 No Plan EP)"],
+            ["343844474", "David Bowie - Killing a Little Time (2017 No Plan EP)"],
+            ["343844475", "David Bowie - When I Met You (2017 No Plan EP)"]
+        ]
+    }
+}
