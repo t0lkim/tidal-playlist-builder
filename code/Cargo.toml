@@ -1,0 +1,38 @@
+[package]
+name = "tidal-playlist-builder"
+version = "0.1.0"
+edition = "2024"
+description = "Build Tidal playlists from BBC programmes, CSV, and text files"
+authors = ["Mike Lott <me@t0lkim.dev>"]
+
+[[bin]]
+name = "tpb"
+path = "src/main.rs"
+
+[dependencies]
+keyring = { version = "3", features = ["apple-native"] }
+clap = { version = "4", features = ["derive"] }
+reqwest = { version = "0.12", features = ["json"] }
+scraper = "0.22"
+tokio = { version = "1", features = ["full"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+csv = "1"
+anyhow = "1"
+thiserror = "2"
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter"] }
+chrono = { version = "0.4", features = ["serde"] }
+indicatif = "0.17"
+async-trait = "0.1"
+regex = "1"
+urlencoding = "2"
+tidalrs = "0.4"
+
+[profile.dev]
+incremental = true
+
+[profile.release]
+strip = true
+lto = true
+codegen-units = 1
