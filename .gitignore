@@ -3,3 +3,4 @@
 *.swo
 .DS_Store
 TIMECONFIG.json
+__pycache__/
